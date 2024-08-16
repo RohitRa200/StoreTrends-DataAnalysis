@@ -35,7 +35,7 @@ The dataset used in this analysis includes:
 - **Customer Demographics:** Information about customers, including gender, age, and location.
 - **Order Status:** Status details of each order, including completed, pending, and canceled.
 
-**Link to Excel File:** [Krishna Store Sales Data](<https://1drv.ms/x/c/d88a9d30a7fc244c/ETQgVTagUaRJuFcbppIoEckBd7EIVa4R6BfsbmH6hyck_g?e=vIthoV>)
+**Watch the Dashboard:** To view the interactive dashboard and explore the detailed analysis, please visit [Krishna Store Sales Data](<https://1drv.ms/x/c/d88a9d30a7fc244c/ETQgVTagUaRJuFcbppIoEckBd7EIVa4R6BfsbmH6hyck_g?e=vIthoV>).
 
 ## Analysis
 
