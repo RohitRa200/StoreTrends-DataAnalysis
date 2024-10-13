@@ -60,6 +60,7 @@ Charts and graphs included in this repository are:
 - **State Contribution Maps:** To highlight sales contributions by state.
 - **Channel Performance Graphs:** To compare sales across different channels.
 - **Top Category Bar Charts:** To display the highest-selling categories.
+- **Watch the Dashboard:** To view the interactive dashboard and explore the detailed analysis, please visit [Krishna Store Sales Data](<https://1drv.ms/x/c/d88a9d30a7fc244c/ETQgVTagUaRJuFcbppIoEckBd7EIVa4R6BfsbmH6hyck_g?e=vIthoV>).
 
 ## Repository Structure
 
