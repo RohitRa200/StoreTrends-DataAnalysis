@@ -76,5 +76,5 @@ The analysis of Krishna Store’s 2022 sales data reveals several actionable ins
 5. **Expand Marketing to Other States**: While Maharashtra, Karnataka, and Uttar Pradesh performed well, growth in other states should not be ignored. Expanding digital marketing to emerging markets can help capture untapped potential.
 
 ## Visualization
-[Dashboard Image] (https://github.com/RohitRa200/StoreTrends-DataAnalysis/blob/main/Screenshot%202024-10-13%20195818.png?raw=true)
+[Dashboard Image] (https://github.com/RohitRa200/StoreTrends-DataAnalysis/blob/main/Screenshot%202024-10-13%20195818.png)
 
