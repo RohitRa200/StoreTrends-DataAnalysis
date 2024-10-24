@@ -57,6 +57,7 @@ Visual aids played a crucial role in presenting findings:
 - **State-Wise Sales Maps**: Highlighted geographical sales concentration.
 - **Channel Performance Graphs**: Compared the success of different sales platforms (e.g., Amazon, Flipkart, Myntra).
 - **Category Sales Bar Charts**: Displayed the most popular product categories.
+- https://github.com/RohitRa200/StoreTrends-DataAnalysis/blob/main/visualization/Dashboards%20.png
 
 ## Conclusion
 
